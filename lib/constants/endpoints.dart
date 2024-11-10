@@ -1,0 +1,1 @@
+String postsEndPoint = "https://jsonplaceholder.typicode.com/posts";
